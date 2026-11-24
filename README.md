@@ -4,8 +4,6 @@ Can't decide what to cook? One click picks a random recipe from a built-in colle
 
 **Live demo:** https://yosef-tamer206.github.io/What-s-For-Dinner/
 
-![What-s-For-Dinner screenshot](docs/screenshot.png)
-
 ## Features
 
 - Random meal suggestion from a built-in collection of 13 recipes
